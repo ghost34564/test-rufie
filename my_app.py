@@ -3,7 +3,7 @@ from instr import*
 from PyQt5.QtWidgets import(
     QApplication, QWidget, 
     QHBoxLayout, QVBoxLayout,
-    QGridLayout,QGroupBox, QRadiobuttin,
+    QGridLayout,QGroupBox, QRadiobutton,
     QPushButton, QLabel, QListWidget, QLineEdit)
 
 from second_win import* 
